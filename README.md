@@ -1,4 +1,7 @@
 # KEEB
+## Humble beginnings
+<img width="910" height="578" alt="Humble beginnings" src="https://github.com/user-attachments/assets/e14b08a7-a522-4dac-b39a-9fc540b4c341" />
+
 ## Initial Layout
   <img width="1112" height="452" alt="Initial design" src="https://github.com/user-attachments/assets/51cffbba-efb5-40db-8681-413022b6c640" />
 This is the code for it so you can put it into keyboard layout editor and then see the design.
