@@ -8,4 +8,6 @@
 [{a:4,w:1.75},"Caps Lock","A","S","D","F","G","H","J","K","L",":\n;","\"\n'",{a:6,w:2.25},"Enter","Page Down"],
 [{w:2.25},"Shift",{a:4},"Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{a:6,w:1.75},"Shift",{a:7},"↑","End"],
 [{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{w:6.25},"",{a:6},"Alt","Fn","Ctrl",{a:7},"←","↓","→"]
+
+
 That is the code for it so you can put it into keyboard layout editor and then see the design.
